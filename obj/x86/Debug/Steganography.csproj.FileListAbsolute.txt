@@ -1,0 +1,18 @@
+E:\Desktop\sourcecode\Steganography\bin\Debug\Steganography.exe.config
+E:\Desktop\sourcecode\Steganography\bin\Debug\Steganography.exe
+E:\Desktop\sourcecode\Steganography\bin\Debug\Steganography.pdb
+E:\Desktop\sourcecode\Steganography\obj\x86\Debug\Steganography.csprojResolveAssemblyReference.cache
+E:\Desktop\sourcecode\Steganography\obj\x86\Debug\Steganography.Steganography.resources
+E:\Desktop\sourcecode\Steganography\obj\x86\Debug\Steganography.Properties.Resources.resources
+E:\Desktop\sourcecode\Steganography\obj\x86\Debug\Steganography.csproj.GenerateResource.Cache
+E:\Desktop\sourcecode\Steganography\obj\x86\Debug\Steganography.exe
+E:\Desktop\sourcecode\Steganography\obj\x86\Debug\Steganography.pdb
+C:\Users\home\Desktop\mjr pjct source code\mjr pjct source code\Steganography\bin\Debug\Steganography.exe.config
+C:\Users\home\Desktop\mjr pjct source code\mjr pjct source code\Steganography\obj\x86\Debug\Steganography.exe
+C:\Users\home\Desktop\mjr pjct source code\mjr pjct source code\Steganography\obj\x86\Debug\Steganography.pdb
+C:\Users\home\Desktop\mjr pjct source code\mjr pjct source code\Steganography\obj\x86\Debug\Steganography.csprojResolveAssemblyReference.cache
+C:\Users\home\Desktop\mjr pjct source code\mjr pjct source code\Steganography\obj\x86\Debug\Steganography.Steganography.resources
+C:\Users\home\Desktop\mjr pjct source code\mjr pjct source code\Steganography\obj\x86\Debug\Steganography.Properties.Resources.resources
+C:\Users\home\Desktop\mjr pjct source code\mjr pjct source code\Steganography\obj\x86\Debug\Steganography.csproj.GenerateResource.Cache
+C:\Users\home\Desktop\mjr pjct source code\mjr pjct source code\Steganography\bin\Debug\Steganography.exe
+C:\Users\home\Desktop\mjr pjct source code\mjr pjct source code\Steganography\bin\Debug\Steganography.pdb
